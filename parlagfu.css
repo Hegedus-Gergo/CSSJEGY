@@ -12,8 +12,15 @@ a {
     left: 0;
     right: 0;
 }
-#2 {
+.ketto {
 background-color: black;
 height: 40px;
 color: white;
+}
+#gyom {
+    margin: left;
+    left: 5;
+    right: 5;
+    border: 1pt solid black;
+    float: left;
 }
