@@ -5,3 +5,10 @@ body {
 a {
     color: #999999;
 }
+#kulso {
+    width: 980px;
+    background-color: #509050;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
